@@ -9,14 +9,14 @@ fun main(){
     val g: Byte=104;
     val i:Boolean=true;
 
-    println("Integer Value:"+a)
-    println("Float Value:"+b)
-    println("Char Value:"+c)
-    println("String Value:"+h)
-    println("Double Value:"+d)
-    println("Long Value:"+e)
-    println("Short Value:"+f)
-    println("Byte Value:"+g)
-    println("Boolean Value:"+i)
+    println("Integer Value:$a")
+    println("Float Value:$b")
+    println("Char Value:$c")
+    println("String Value:$h")
+    println("Double Value:$d")
+    println("Long Value:$e")
+    println("Short Value:$f")
+    println("Byte Value:$g")
+    println("Boolean Value:$i")
 
 }
